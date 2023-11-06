@@ -33,7 +33,7 @@
 >Ввод слова для поиска:  
 **public string GetWord()**
 
->Вывод на экран слова и перевода:  
+>Вывод на экран найденного слова и перевода, сохранение их в файл findWord.txt:  
 **public void PrintPair(KeyValuePair<string, List<string>> pair)**
 
 >Поиск и замена слова - по ключу:  
