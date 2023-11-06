@@ -56,6 +56,8 @@
 >Список хранит названия словарей:  
 **private List<string> _dicts = new();**
 
+>Методы:
+
 >Сохраняет название словаря в файл dicts.txt:  
 **private void _saveDictsNames()**
 
